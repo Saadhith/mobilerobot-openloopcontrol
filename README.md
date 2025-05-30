@@ -85,9 +85,7 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 
-## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
 
 Insert image here
 
@@ -108,7 +106,7 @@ https://github.com/user-attachments/assets/f35bcb21-7e99-4175-9b37-4af89a9828cf
 
 Upload your video in Youtube and paste your video-id here
 
-https://youtu.be/obqBMCwduxU?si=dfoAzwCs3fJrNR0i
+https://youtu.be/A08SiF2d2Kg
 
 <br/>
 <br/>
